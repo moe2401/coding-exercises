@@ -1,0 +1,30 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+#square{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+#name{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#name h1{
+    color: white;
+    
+}
